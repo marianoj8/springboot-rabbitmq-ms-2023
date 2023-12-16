@@ -1,0 +1,6 @@
+server:
+  port: 8081
+spring:
+  rabbitmq:
+    queue:
+      name: stock
